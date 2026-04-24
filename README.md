@@ -148,7 +148,7 @@ local-services-booking-platform/
 - `created_at`
 
 ## Installation Steps
-1. Install XAMPP, WAMP, or another PHP + MySQL local server package.
+1. Install XAMPP, WAMP, or another PHP + MySQL local server package. ( PHP version in this environment is 8.1.25 )
 2. Clone or copy this project into your web server root folder such as `htdocs`.
 3. Create a MySQL database named `local_services_booking_platform` if needed.
 4. Import [`database.sql`](/F:/GOOGLE%20Antigravity/BCA/local-services-booking-platform/database.sql) into MySQL using phpMyAdmin or the MySQL CLI.
